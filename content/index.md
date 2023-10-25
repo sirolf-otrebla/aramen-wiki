@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: La storia della notte perduta
+date: 2023-10-24
 ---
+questa breve wiki descrive il mondo di Aramen, l'ambientazione della campagna di Pathfinder "La storia della notte perduta".
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Per iniziare
+
+
