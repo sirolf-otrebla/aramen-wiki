@@ -4,6 +4,7 @@ aliases:
   - Cavalieri delle Tre Spade
   - L'Ordine
   - le Tre Spade
+  - cavalieri delle tre spade
 ---
 L'ordine delle Tre Spade é una organizzazione di stampo cavalleresco il cui scopo é la difesa delle istituzioni imperiali e in particolare del sovrano. Pur essendo un soggetto di Diritto Imperiale, riconosciuto dalla legge, l'ordine delle tre spade é autonomo e risponde esclusivamente al sovrano stesso. Ha la propria sede alla _Fortezza della Sera_, e controlla direttamente buona parte della Provincia di [[Vestria]].
 
